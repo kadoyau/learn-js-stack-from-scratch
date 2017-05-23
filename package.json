@@ -8,5 +8,8 @@
   "scripts": {
     "start": "node ."
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  }
 }
