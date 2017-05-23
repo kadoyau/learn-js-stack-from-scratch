@@ -6,7 +6,7 @@
   "author": "kadoyau <el.psi.congroo@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node ."
+    "start": "babel-node src"
   },
   "dependencies": {},
   "devDependencies": {
