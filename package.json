@@ -4,5 +4,8 @@
   "description": "https://github.com/verekia/js-stack-from-scratch",
   "main": "index.js",
   "author": "kadoyau <el.psi.congroo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
 }
