@@ -9,4 +9,5 @@ class Dog {
 }
 
 // このクラスを外部ファイルからrequireして利用するために必要
-module.exports = Dog;
+// module.exports = Dog; と等価
+export default Dog;
