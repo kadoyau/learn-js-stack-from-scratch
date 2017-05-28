@@ -1,7 +1,11 @@
 {
   "extends": "airbnb",
+  "plugins": [
+    "compat"
+  ],
   "rules": {
     "semi": ["error", "never"],
-    "no-unexpected-multiline": "error"
+    "no-unexpected-multiline": "error",
+    "compat/compat": "error"
   }
 }
